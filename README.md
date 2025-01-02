@@ -26,7 +26,7 @@ The model was tested using 10 Chinese sentiment sentences (5 positive and 5 nega
 ### Test Case Results
 Below is the terminal output from the test case:
 
-![Test Case Results](test%20results/terminal.png)
+![Test Case Results](test%20results/test%20case.PNG)
 
 ### Example Sentences
 - **Positive Sentiments**:
