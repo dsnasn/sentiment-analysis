@@ -4,3 +4,5 @@ torch
 flask
 matplotlib
 numpy
+safetensors
+
