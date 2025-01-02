@@ -57,7 +57,8 @@ sentiment-analysis/
 ├── requirements.txt        # List of dependencies for the project
 └── README.md               # Project documentation
 ```
-
+> Model Training Notebook: The notebook for model training and evaluation can be found in a separate repository:
+[Link to Model Training Notebook](https://github.com/dsnasn/Sentiment-Recognition-Project)
 ---
 
 ## 🛠️ Quick Start
