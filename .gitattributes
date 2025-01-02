@@ -1,3 +1,0 @@
-app/saved_model/model.safetensors filter=lfs diff=lfs merge=lfs -text
-.git/lfs/objects/6b/24/6b24d42a42f2c827445d9f8d8c095de469ae34a4cecc6c50222d259eff2074f9 filter=lfs diff=lfs merge=lfs -text
-.git/objects/26/1563e5edd6d2a63de0db2d403344d1d25878ba filter=lfs diff=lfs merge=lfs -text
