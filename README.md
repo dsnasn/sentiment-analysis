@@ -2,9 +2,9 @@
 
 | Positive Sentiment         | Negative Sentiment         |
 |----------------------------|----------------------------|
-| ![Positive GIF](test%20results/positive.gif) | ![Negative GIF](test%20results/negative.gif) |
+| ![Positive GIF](test%20results/positive%20test.gif) | ![Negative GIF](test%20results/negative%20test.gif) |
 
-> A powerful sentiment analysis tool based on Hugging Face Transformers.  
+> A powerful sentiment analysis tool leveraging cutting-edge NLP models from Hugging Face, designed for real-time sentiment classification and visualization.
 
 ---
 
@@ -50,9 +50,11 @@ Test sentiment analysis via API:
 ## 📊 Screenshots
 
 ### Main Interface
+This is the main interface where users can input text for sentiment analysis:
 ![Main Interface](path-to-main-interface-image)
 
 ### Sentiment Distribution
+Visualizes the confidence scores for sentiment prediction:
 ![Sentiment Distribution](path-to-sentiment-distribution-image)
 
 
