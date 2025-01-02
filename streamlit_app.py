@@ -24,7 +24,7 @@ class SentimentModel:
             return sentiment, confidence, probabilities[0].tolist()
 
 # 缓存模型加载
-@st.cache_resource
+# @st.cache_resource
 def load_model():
     return SentimentModel(model_path="app/saved_model")
 
