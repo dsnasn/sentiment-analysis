@@ -1,8 +1,7 @@
-streamlit
-transformers
-torch
-flask
-matplotlib
-numpy
-safetensors
-
+streamlit==1.41.1
+transformers==4.47.1
+torch==2.5.1
+flask==3.1.0
+matplotlib==3.9.2
+numpy==2.1.1
+safetensors==0.4.5
